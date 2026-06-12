@@ -1,0 +1,6 @@
+{
+  "name": "AI Story Architect",
+  "description": "An AI-powered creative writing companion to craft stories, design pacing curves, and write chapters inspired by legendary writing styles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
